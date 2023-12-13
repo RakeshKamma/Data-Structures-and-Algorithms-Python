@@ -1,0 +1,37 @@
+time complexity - function calls,operations like copying,slicing,depends on height of tree
+space complexity - Stack calls, any variables
+
+General- ( implement sample example  fully + code seeing sample example)
+string manipulations - replacing,startswith
+map lists, extending list etc - multi dimensional arrays
+try to check the problem with different examples
+
+
+Dynamic Programming-
+
+a.Memoization Recipe
+
+1.brute force approach - base cases , iteration 
+2.memoization approach
+
+Implement a tree structure for sample example fully - understand from the bottom
+check with small basic inputs like 0,1 or "" - to from base cases - check with different examples
+structure recursive problems as a tree. Tree leafs are bases cases.
+
+
+b.Tabulation Recipe
+
+visualize the problem as a grid or a table
+size of grid depends on problem- typically len(string)+1, finalsum+1 size
+initialize grid with default values- for typical t/f use false values - depends on problem(can be false,none,[] etc)
+find the imp grid like 1,1, in fib_tab and 1 in grid_tab - typically case involving empty string or zero value 
+iterate through table and apply logic(simple 2-3 lines generally)
+
+
+
+
+
+
+
+
+
