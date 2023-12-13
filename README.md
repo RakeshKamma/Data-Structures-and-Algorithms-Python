@@ -1,33 +1,18 @@
 # Data-Structures-and-Algorithms-Python
 
-These videos have helped me tremendously understand these specific concepts, the instructor (Alvin Zablan) is amazing, and he teaches very well. Dynamic programming was a topic I had a lot of trouble understanding and after watching his video it actually clicked. I truly believe these videos are what helped me recently get a job.
+These videos have been immensely beneficial in grasping specific concepts, especially thanks to the exceptional teaching of Alvin Zablan. His methodical approach and clear explanations, particularly in topics like dynamic programming, made previously challenging concepts click for me. 
 
-Watch the videos do the practice problems he does while watching and then go to leetcode and solve simillar.
+I recommend watching the videos attentively, following along with the practice problems demonstrated. Afterward, I suggest applying the concepts by solving similar problems on platforms like LeetCode.
 
-Complete Guide to Complexity Analysis
+Here are the video links for comprehensive learning:
 
-https://youtu.be/HfIH3czXc-8
+- Complete Guide to Complexity Analysis: [Link](https://youtu.be/HfIH3czXc-8)
+- Recursion: [Link](https://youtu.be/IJDJ0kBx2LM)
+- Dynamic Programming: [Link](https://youtu.be/oBt53YbR9Kk)
+- Binary Tree Algorithms for Technical Interviews: [Link](https://youtu.be/fAAZixBzIAI)
+- Linked Lists for Technical Interviews: [Link](https://youtu.be/fAAZixBzIAI)
+- Graph Algorithms for Technical Interviews: [Link](https://youtu.be/tWVWeAqZ0WU)
 
-Recursion
-
-https://youtu.be/IJDJ0kBx2LM
-
-Dynamic Programming
-
-https://youtu.be/oBt53YbR9Kk
-
-Binary Tree Algorithms for Technical Interviews
-
-https://youtu.be/fAAZixBzIAI
-
-Linked Lists for Technical Interviews
-
-https://youtu.be/fAAZixBzIAI
-
-Graph Algorithms for Technical Interviews
-
-https://youtu.be/tWVWeAqZ0WU
-
-Enjoy!
+Enjoy the learning experience!
 
 
