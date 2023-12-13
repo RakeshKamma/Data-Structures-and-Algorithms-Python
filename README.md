@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms-Python
 
-These videos have been immensely beneficial in grasping specific concepts, especially thanks to the exceptional teaching of Alvin Zablan. His methodical approach and clear explanations, particularly in topics like dynamic programming, made previously challenging concepts click for me. 
+These videos have been immensely beneficial in grasping specific concepts, especially thanks to the exceptional teaching of Alvin Zablan. His methodical approach and clear explanations, particularly in topics like dynamic programming.
 
 I recommend watching the videos attentively, following along with the practice problems demonstrated. Afterward, I suggest applying the concepts by solving similar problems on platforms like LeetCode.
 
