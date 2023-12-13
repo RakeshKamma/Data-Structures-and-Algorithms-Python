@@ -1,0 +1,19 @@
+breath first traversal - stack
+depth first traversal - queue
+
+Inorder to avoid cycles in graph use a visited dictionary to store visited keys
+Any undirected graph is same as directed graph but 
+-convert undirected to directed using logic
+-add visited dictionary to avoid infinity loop
+
+
+In most cases first thing in recursive step is - if we have undirected graph 
+-if source in visited: do something
+-visited[source]=''
+
+
+graph components problems like no of individual graphs, island count etc have both iterative and recursive code
+
+shortest path can be obtained using breath first search rather than depth first search
+
+float('inf') is used to represent infinity in python
