@@ -1,0 +1,9 @@
+insertion in an array is O(n) while in a linked list is O(1)
+
+haed,tail,next,prev - common keywords
+
+the first step in a recursion is (if current==None:return something)
+
+implement the approach on a paper and follow it step by step for the answer
+
+Common interview problem- Reversing a linked list
