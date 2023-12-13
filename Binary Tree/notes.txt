@@ -1,0 +1,21 @@
+root,node,leaf,parent,child
+
+Binary tree -  
+1. has atmost 2 children
+2. has exactly 1 root - root should not have a parent
+3. a path between root and node
+
+1 root - binary tree with 1 node
+0 root - binary tree with 0 node
+
+
+Depth first search - Iterative, Recursive 
+
+1. uses stack to store values
+2. base case , iteration to add values to stack and call child nodes
+3. Draw the recursive tree diagram and completly solve one example and code seeing that example.
+
+breath first Search - Iterative
+
+1. uses queue to store values
+2. base case , iteration to add values to queue and call child nodes
